@@ -27,7 +27,7 @@ public class TestIterators {
 
 			//j = new IntBagIterator( bag );
 
-			 j = bag.iterator();
+			j = bag.iterator();
 
 			while ( j.hasNext() )
 			{

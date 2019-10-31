@@ -13,9 +13,9 @@ public class IntBag implements IntIterator {
 	private int[] intBag;
 	private int indexSentinel;
 	private Iterator iterator;
-	
+
 	//Constructor
-	
+
 	/** Construct an int bag.
 	 * 
 	 */ 
@@ -91,7 +91,7 @@ public class IntBag implements IntIterator {
 		indexSentinel--;
 
 	}
-	
+
 	/** Removes all the specified value from array
 	 * @param input
 	 * 

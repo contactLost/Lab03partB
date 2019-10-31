@@ -16,6 +16,11 @@ public class test {
 			
 			System.out.println(bag.toString());
 			System.out.println(bag.size());
+			
+			System.out.println(bag.nextInt());
+			System.out.println(bag.nextInt());
+			System.out.println(bag.nextInt());
+			System.out.println(bag.nextInt());
 	}
 
 }
